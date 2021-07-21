@@ -60,7 +60,6 @@ tensorflow-estimator==2.5.0
 termcolor==1.1.0
 threadpoolctl==2.2.0
 toml==0.10.2
-torchvision==0.10.0+cu111
 tqdm==4.61.1
 typing-extensions==3.7.4.3
 ujson==4.0.2
